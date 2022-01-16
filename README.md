@@ -6,6 +6,7 @@ Setup is pretty easy, all you have to do is..
 
 - Add your ID into (`Line 10`)
 - Add your token into (`Line 15`)
+- Add the tokens into `data/tokens.txt`
 
 ## Warning
 ### Proxies
