@@ -205,7 +205,7 @@ async def get(ctx):
       )
 
 #_-------------_#
-guru.bot.run(Data.Token)
+guru.bot.run(Data.Token, bot = False)
 #_-------------_#
 
 # I knew you would scroll to the bottom, but I want to inform you about the bot.
