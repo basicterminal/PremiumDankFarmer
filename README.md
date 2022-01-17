@@ -13,6 +13,3 @@ Setup is pretty easy, all you have to do is..
 If you dont want all your tokens disabled, use proxies, I didnt have a proxy feature in this.. but I am working on it..
 ### Tokens
 You need atleast 9 or more tokens for the bot to be used properly. Since the discord bot, dank memer, has a cooldown of 45 seconds, using over 9 tokens basically bypasses it. It rotates through all the tokens, 1 at a time, with a 5 second rotation speed.
-
-## Creator
-I am [Avalanche](https://github.com/AvalancheDiscord), but also known as Westside, I am the official creator of this script. Any other person is lying.
